@@ -1,0 +1,10 @@
+{
+"id"        : "phani",
+"comment"   : "users list",
+"uid"       : "2016",
+"gid"       : "100",
+"home"      : "/home/class",
+"shell"     : "/bin/bash",
+"password"  : "welcome"
+}
+
